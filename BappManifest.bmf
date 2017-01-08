@@ -1,0 +1,10 @@
+Uuid: ef2f3f1a593d417987bb2ddded760aee
+ExtensionType: 2
+Name: WSDL Wizard
+ScreenVersion: 1.02
+SerialVersion: 2
+MinPlatformVersion: 0
+ProOnly: False
+Author: Smeege Sec
+ShortDescription: Scans a target server for WSDL files.
+EntryPoint: WSDLWizard.py
