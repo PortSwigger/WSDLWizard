@@ -1,6 +1,7 @@
 Uuid: ef2f3f1a593d417987bb2ddded760aee
 ExtensionType: 2
 Name: WSDL Wizard
+RepoName: wsdl-wizard
 ScreenVersion: 1.02
 SerialVersion: 2
 MinPlatformVersion: 0
